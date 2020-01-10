@@ -1,0 +1,16 @@
+{
+  "name": "automateeverything",
+  "version": "1.0.0",
+  "description": "General Automation tool",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zion Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "save": "^2.4.0"
+  }
+}
